@@ -1,0 +1,16 @@
+{
+  "name": "carpv2",
+  "version": "1.0.0",
+  "description": "Controle de clientes, contatos, veiculo, orçamentos e serviços para carros",
+  "main": "main.js",
+  "repository": "jairmamaigit",
+  "author": "Jair Maia Diniz",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon main",
+    "start": "node main",
+    "nodemon": "nodemon main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+}
